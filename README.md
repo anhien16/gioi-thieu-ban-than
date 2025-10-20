@@ -3,8 +3,8 @@
 ![Ảnh đại diện](https://i.pinimg.com/1200x/2d/ec/52/2dec52514831956c8335f5893e8e5234.jpg)
 
 ## Thông tin cơ bản
-- **Họ và tên:** Lê Hiền
-- **Lớp:** Tin2A
+- **Họ và tên:** Lê Thúy Hiền
+- **Lớp:** Tin3A
 - **Trường:** Đại học Sư phạm, Đại học Huế
 
 ## Mô tả ngắn gọn
